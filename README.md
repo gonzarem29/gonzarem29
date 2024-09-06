@@ -29,12 +29,21 @@
 
 <!--- proyecto -->
 <h1 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Proyectos </h1>
-<a href="https://github.com/gonzarem29/POO">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gonzarem29&repo=POO&theme=onedark" />
-</a>  
 
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/gonzarem29/POO">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzarem29&repo=POO&theme=onedark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gonzarem29/PGE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gonzarem29&repo=PGE&theme=onedark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!--- snake -->
